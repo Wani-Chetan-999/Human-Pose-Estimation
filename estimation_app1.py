@@ -5,7 +5,7 @@ import cv2
 import tempfile
 
 # Constants for Pose Estimation
-DEMO_IMAGE = 'stand.jpg'
+DEMO_IMAGE = 'images/stand.jpg'
 BODY_PARTS = {
     "Nose": 0, "Neck": 1, "RShoulder": 2, "RElbow": 3, "RWrist": 4,
     "LShoulder": 5, "LElbow": 6, "LWrist": 7, "RHip": 8, "RKnee": 9,
@@ -55,13 +55,13 @@ page = st.sidebar.selectbox("", ["Menu","Home", "Pose Estimation", "About", "Hel
 
 if page == "Menu":
     st.title("Welcome to Human Pose Estimation")
-    st.image("webImg.png", caption="Example Pose Estimation", use_container_width=True)
+    st.image("images/webImg.png", caption="Example Pose Estimation", use_container_width=True)
     st.markdown("""### What is Pose Estimation? Pose Estimation is a computer vision technique to identify human figures in an image or video by detecting key points on the body.""")
     st.markdown("Navigate to **Pose Estimation** in the menu to try it yourself!")
 
 elif page == "Home":
     st.title("Welcome to Human Pose Estimation")
-    st.image("stand.jpg", caption="Example Pose Estimation", use_container_width=True)
+    st.image("images/stand.jpg", caption="Example Pose Estimation", use_container_width=True)
     st.markdown("""### What is Pose Estimation? Pose Estimation is a computer vision technique to identify human figures in an image or video by detecting key points on the body.""")
     st.markdown("Navigate to **Pose Estimation** in the menu to try it yourself!")
 
