@@ -1,7 +1,7 @@
 
 # Human Pose Estimation with Streamlit and OpenCV
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Human+Pose+Estimation) <!-- Replace with your image URL -->
+![Project Banner](/Human-Pose-Estimation/images/th.jpg) <!-- Replace with your image URL -->
 
 ## 📋 Table of Contents
 - [About the Project](#about-the-project)
