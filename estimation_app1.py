@@ -5,6 +5,8 @@ import cv2
 import tempfile
 
 # Constants for Pose Estimation
+
+st.set_page_config(layout="wide")
 DEMO_IMAGE = 'images/stand.jpg'
 BODY_PARTS = {
     "Nose": 0, "Neck": 1, "RShoulder": 2, "RElbow": 3, "RWrist": 4,

@@ -1,0 +1,5 @@
+[theme]
+base="light"
+font="serif"
+[layout]
+wideMode = true
