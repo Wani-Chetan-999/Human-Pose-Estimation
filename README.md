@@ -103,9 +103,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📞 Contact
 - **Name**: Chetan Wani  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **Email**: [02ckwani@gmail.com](mailto:your-email@example.com)  
 - **GitHub**: [Wani-Chetan-999](https://github.com/Wani-Chetan-999)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
+- **LinkedIn**: [www.linkedin.com/in/chetan-kailas-wani/](https://www.linkedin.com/in/your-profile/)  
 
 
 ### Steps:
