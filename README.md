@@ -22,7 +22,7 @@
 
 ---
 
-## About the Project
+## 📖About the Project
 This project is an interactive web application for **real-time human pose estimation**, leveraging **OpenCV**, **TensorFlow**, and **Streamlit**. It detects human body key points in images, videos, and live camera feeds, visualizing them in real time.
 
 ---
