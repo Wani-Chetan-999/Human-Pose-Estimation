@@ -27,7 +27,7 @@ This project is an interactive web application for **real-time human pose estima
 
 ---
 
-## ✨ Features
+## ✨Features
 - Upload an image or video for pose estimation.
 - Real-time pose detection using your webcam.
 - Visualize body parts and connections.
