@@ -8,15 +8,16 @@
 
 ## 📋 Table of Contents
 
-- [About the Project](#📖-about-the-project)
-- [Features](#✨-features)
-- [Installation](#🚀-installation)
-- [Usage](#💻-usage)
-- [Technologies Used](#🛠️-technologies-used)
-- [Screenshots](#📸-screenshots)
-- [Contributing](#🤝-contributing)
-- [License](#📜-license)
-- [Contact](#📞-contact)
+- [📖 About the Project](#📖-about-the-project)
+- [✨ Features](#✨-features)
+- [🚀 Installation](#🚀-installation)
+- [💻 Usage](#💻-usage)
+- [🛠️ Technologies Used](#🛠️-technologies-used)
+- [📸 Screenshots](#📸-screenshots)
+- [🤝 Contributing](#🤝-contributing)
+- [📜 License](#📜-license)
+- [📞 Contact](#📞-contact)
+
 
 
 ---
