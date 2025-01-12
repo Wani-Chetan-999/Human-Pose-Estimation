@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="images/banner.jpeg" alt="Project Banner" width="80%" height="40%" />
-</div> <!-- Replace with your image URL -->
+</div>
 
 ## 📋 Table of Contents
 - [About the Project](#about-the-project)
@@ -73,11 +73,34 @@ This project is an interactive web application for **real-time human pose estima
 
 ## 📸 Screenshots
 ### Home Page
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Home+Page) <!-- Replace with your screenshot -->
+<div align="center">
+  <img src="Result/Home.png" alt="Project Banner" width="80%" height="40%" />
+</div>
 
-### Pose Estimation in Action
-![Pose Estimation Screenshot](https://via.placeholder.com/800x400?text=Pose+Estimation) <!-- Replace with your screenshot -->
+### Pose Estimation Input (Image/Video/Live Cam)
+<div align="center">
+  <img src="Result/Pose Estimation.png" alt="Project Banner" width="80%" height="40%" />
+</div>
 
+### Pose Estimation Input (Image/Video/Live Cam)
+<div align="center">
+  <img src="Result/input.png" alt="Project Banner" width="80%" height="40%" />
+</div>
+
+### Pose Estimation Output
+<div align="center">
+  <img src="Result/Estimation.png" alt="Project Banner" width="80%" height="40%" />
+</div>
+
+### About Page
+<div align="center">
+  <img src="Result/about.png" alt="Project Banner" width="80%" height="40%" />
+</div>
+
+### Help Estimation in Action
+<div align="center">
+  <img src="Result/help.png" alt="Project Banner" width="80%" height="40%" />
+</div>
 ---
 
 ## 🤝 Contributing
