@@ -35,7 +35,7 @@ This project is an interactive web application for **real-time human pose estima
 
 ---
 
-## 🚀 Installation
+## 🚀Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Wani-Chetan-999/Human-Pose-Estimation.git
@@ -57,7 +57,7 @@ This project is an interactive web application for **real-time human pose estima
 
 ---
 
-## 💻 Usage
+## 💻Usage
 1. Navigate to `http://localhost:8501` after starting the app.
 2. Use the **sidebar** to:
    - Select tabs like Home, Pose Estimation, About, and Help.
@@ -66,7 +66,7 @@ This project is an interactive web application for **real-time human pose estima
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️Technologies Used
 - **Streamlit**: For the interactive web app interface.
 - **OpenCV**: For image processing and pose estimation.
 - **TensorFlow**: For the pre-trained model.
@@ -74,7 +74,7 @@ This project is an interactive web application for **real-time human pose estima
 
 ---
 
-## 📸 Screenshots
+## 📸Screenshots
 ### Home Page
 <div align="center">
   <img src="Result/Home.png" alt="Project Banner" width="80%" height="40%" />
@@ -106,7 +106,7 @@ This project is an interactive web application for **real-time human pose estima
 </div>
 ---
 
-## 🤝 Contributing
+## 🤝Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch:
@@ -125,12 +125,12 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📜 License
+## 📜License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📞 Contact
+## 📞Contact
 - **Name**: Chetan Wani  
 - **Email**: [02ckwani@gmail.com](mailto:your-email@example.com)  
 - **GitHub**: [Wani-Chetan-999](https://github.com/Wani-Chetan-999)  
