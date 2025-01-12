@@ -141,5 +141,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 1. Replace placeholder texts (e.g., `your-email@example.com`, `Your LinkedIn Profile`) with your actual details.
 2. Add project-specific images/screenshots where indicated.
 3. Save this as `README.md` in the root of your project folder.
-
-Let me know if you'd like further assistance! 😊
